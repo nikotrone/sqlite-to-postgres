@@ -7,5 +7,3 @@ services:
       - "54320:5432"
     volumes:
       - "./:/tmp"
-volumes:
-  my_dbdata:
